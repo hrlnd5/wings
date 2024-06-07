@@ -19,7 +19,9 @@
 
 2. **Configure Database**  
    Open the config.php file located in app/config/ directory and update the database configuration settings with your MySQL credentials.
-3. **Start Apache and MySQL**  
+3. **Import Database**  
+   Open your MySQL and create database with name `penjualan` then import the `penjualan.sql`
+4. **Start Apache and MySQL**  
    Open XAMPP and start the Apache and MySQL modules.
-4. **Access the Application**  
+5. **Access the Application**  
    Open your web browser and navigate to http://localhost/wings/public.
